@@ -1,23 +1,8 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+austin:
+  name: Austin Baird
+  title: Full-Stack Software Engineer
+  url: https://www.austinbaird.software
+  image_url: https://media.licdn.com/dms/image/v2/C4D03AQF2qs6pZiimMg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1576023146096?e=2147483647&v=beta&t=wUArdCnySb4oBXfNoQhXLR_98WvbqCNZANQORO-1C9o
+  socials:
+    github: austinb12
   page: true
-  socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
